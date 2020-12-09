@@ -3,8 +3,6 @@
 ## Project setup
 ```
 npm install
-npm install axios
-npm install sweetalert2
 ```
 
 ### Compiles and hot-reloads for development
